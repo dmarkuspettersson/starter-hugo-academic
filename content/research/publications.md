@@ -8,9 +8,9 @@ active: false  # Activate this widget? true/false
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 30
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -20,7 +20,7 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '3'
     author: ''
     exclude_featured: false
     exclude_future: false
@@ -33,10 +33,9 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  # List, Compact, Card, or Citation (publication only)
+  view: Citation
   columns: '2'
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+

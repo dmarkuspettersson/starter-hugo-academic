@@ -8,7 +8,7 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 10
 
 title: Job market paper
 subtitle: ''
@@ -35,3 +35,5 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+

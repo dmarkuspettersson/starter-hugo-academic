@@ -2,16 +2,16 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-active: false  # Activate this widget? true/false
+active: true  # Activate this widget? true/false
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 20
 
-title: Recent Publications
-subtitle: ''
+title: Working papers
+subtitle: 'And works in progress'
 
 content:
   # Filter on criteria
@@ -20,9 +20,9 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: ''
+    publication_types: ['3', '9']
     author: ''
-    exclude_featured: false
+    exclude_featured: true
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
@@ -33,10 +33,9 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  # List, Compact, Card, or Citation (publication only)
+  view: Card
   columns: '2'
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+

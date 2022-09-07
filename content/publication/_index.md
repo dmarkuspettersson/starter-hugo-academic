@@ -1,6 +1,8 @@
 ---
-title: Publications
-cms_exclude: true
+title: Search papers
+cms_exclude: false
+
+url: "/search_papers"
 
 # View.
 #   1 = List

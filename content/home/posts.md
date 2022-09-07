@@ -2,6 +2,7 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
+active: false  # Activate this widget? true/false
 
 # This file represents a page section.
 headless: true
@@ -16,7 +17,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - post
+      - publication
     tag: ''
     category: ''
     publication_type: ''
