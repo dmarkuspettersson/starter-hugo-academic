@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Markus Pettersson # Website name
-baseURL: 'https://markuspettersson.netlify.app/' # Website URL
+baseURL: 'https://www.markuspettersson.net/' # Website URL
 
 ############################
 ## LANGUAGE
