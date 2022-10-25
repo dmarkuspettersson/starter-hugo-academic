@@ -9,7 +9,7 @@ authors:
   - admin
   - Christoffer Weissert
 
-date: '2022-09-01T00:00:00Z'
+date: '2022-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ publication_types: ['9']
 publication: ''
 publication_short: ''
 
-abstract: 'We derive a microfounded, nonhomothetic generalization of all known superlative price indices, including the Fisher, the Törnqvist, and the Sato-Vartia indices. The index largely avoids the need for estimation, aggregates consistently across heterogeneous households, and admits different index weights across the expenditure distribution. The latter property rationalizes the methods used in most previous measurements of inflation inequality. In an empirical application to the United States using CEX-CPI data for the period 1995–2020, we find: (i) poor and rich households experience on average the same inflation rate; but (ii) inflation for the poorest decile is more than 2.5 times as volatile as that of the richest decile; and (iii) this higher volatility primarily stems from a larger exposure to price changes in food, gas and utilities. In these findings, substitution between goods as prices change plays only a second-order role. Instead, almost all differences come from mechanical changes in the cost of different base-period reference baskets.'
+abstract: 'We derive a microfounded, nonhomothetic generalization of all known superlative price indices, including the Fisher, the Törnqvist, and the Sato-Vartia indices. The index varies continuously along the expenditure distribution, aggregates consistently across heterogeneous households and largely avoids the need for estimation. In an empirical application to the United States using CEX-CPI data for the period 1995--2020, we find: (i) poor and rich households experience on average the same inflation rate; but (ii) inflation for the poorest decile is more than 2.5 times as volatile as that of the richest decile; and (iii) this higher volatility primarily stems from a larger exposure to price changes in food, gas and utilities. Points (i) and (ii) stand in contrast to findings based on the methods used in most previous measurements of inflation inequality, since these methods do not completely purge the underlying cost-of-living indices from income effects.'
 
 # Summary. An optional shortened abstract.
 summary: ''
