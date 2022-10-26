@@ -1,5 +1,5 @@
 ---
-title: 'A Nonhomothetic Price Index and Inflation Heterogeneity'
+title: 'A Distributional PCE Price Index From Aggregate Data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,7 +9,7 @@ authors:
   - admin
   - Christoffer Weissert
 
-date: '2022-10-02T00:00:00Z'
+date: '2022-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ publication_types: ['9']
 publication: ''
 publication_short: ''
 
-abstract: 'We derive a microfounded, nonhomothetic generalization of all known superlative price indices, including the Fisher, the Törnqvist, and the Sato-Vartia indices. The index varies continuously along the expenditure distribution, aggregates consistently across heterogeneous households and largely avoids the need for estimation. In an empirical application to the United States using CEX-CPI data for the period 1995--2020, we find: (i) poor and rich households experience on average the same inflation rate; but (ii) inflation for the poorest decile is more than 2.5 times as volatile as that of the richest decile; and (iii) this higher volatility primarily stems from a larger exposure to price changes in food, gas and utilities. Points (i) and (ii) stand in contrast to findings based on the methods used in most previous measurements of inflation inequality, since these methods do not completely purge the underlying cost-of-living indices from income effects.'
+abstract: 'We propose a method for constructing nonhomothetic cost-of-living indices when detailed consumption microdata is unavailable. Aggregate prices and expenditure shares together with a single cross-sectional distribution of consumption are sufficient to create a nonhomothetic distribution of cost-of-living indices with our approach. The index is derived from nonhomothetic CES preferences, nests conventional price indices as special cases, and only requires the estimation of one parameter: the elasticity of substitution between necessities and luxuries. The underlying preferences aggregate consistently, which allows us to identify this parameter from aggregate data. We implement the approach using US Personal Consumption Expenditure (PCE) data and construct a nonhomothetic PCE price index covering 72 product groups. This index exhibits annual inflation rates of the poorest ten percent that exceed those of the richest ten percent by 0.8 to 1.1 percentage points throughout most of 2022 to date, thus suggesting that poorer households are hit substantially harder by the current inflation surge.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -53,7 +53,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   placement: 1
-  caption: 'Price index distribution'
+  caption: 'Annualised inflation rates'
   focal_point: ''
   preview_only: false
 
