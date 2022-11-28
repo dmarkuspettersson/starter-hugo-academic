@@ -40,7 +40,7 @@ featured: false
 # - name: Custom Link
 # url: "/research/jmp"
 
-url_pdf: '/research/hpw/hpw_priceindex.pdf'
+url_pdf: '/research/a-nonhomothetic-price-index-and-inflation-heterogeneity/hpw_priceindex.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
