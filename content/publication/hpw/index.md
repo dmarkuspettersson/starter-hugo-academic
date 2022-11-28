@@ -25,7 +25,7 @@ publication_types: ['9']
 publication: ''
 publication_short: ''
 
-abstract: 'We derive a microfounded, nonhomothetic generalization of all known superlative price indices, including the Fisher, the Törnqvist, and the Sato-Vartia indices. The index varies continuously along the expenditure distribution, aggregates consistently across heterogeneous households and largely avoids the need for estimation. In an empirical application to the United States using CEX-CPI data for the period 1995--2020, we find: (i) poor and rich households experience on average the same inflation rate; but (ii) inflation for the poorest decile is more than 2.5 times as volatile as that of the richest decile; and (iii) this higher volatility primarily stems from a larger exposure to price changes in food, gas and utilities. Points (i) and (ii) stand in contrast to findings based on the methods used in most previous measurements of inflation inequality, since these methods do not completely purge the underlying cost-of-living indices from income effects.'
+abstract: 'We derive a microfounded, nonhomothetic generalization of all known superlative price indices, including the Fisher, the Törnqvist, and the Sato-Vartia indices. The index varies continuously along the consumption distribution, aggregates consistently across heterogeneous households and largely avoids the need for estimation. In an empirical application to the United States using CEX-CPI data for the period 1995–2020, we find: (i) poor and rich households experience on average the same inflation rate; but (ii) inflation for the poorest decile is more than 2.5 times as volatile as that of the richest decile; and (iii) this higher volatility primarily stems from a larger exposure to price changes in food, gasoline and utilities. Our findings contrast with papers that construct standard price indices for different consumer groups. We show that the inflation inequality uncovered in these analyses may be a spurious result of failing to purge the underlying price indices from a bias owing to income effects on consumer behavior.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -40,7 +40,7 @@ featured: false
 # - name: Custom Link
 # url: "/research/jmp"
 
-url_pdf: ''
+url_pdf: '/research/hpw/hpw_priceindex.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
