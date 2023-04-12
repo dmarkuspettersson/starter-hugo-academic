@@ -7,7 +7,7 @@ title: 'A Distributional PCE Price Index From Aggregate Data'
 authors:
   - Philipp Hochmuth
   - admin
-  - Christoffer Weissert
+  - Christoffer Jessen Weissert
 
 date: '2022-10-01T00:00:00Z'
 doi: ''

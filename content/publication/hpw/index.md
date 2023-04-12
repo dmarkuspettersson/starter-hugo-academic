@@ -1,5 +1,5 @@
 ---
-title: 'A Nonhomothetic Price Index and Inflation Heterogeneity'
+title: 'A Nonhomothetic Price Index and Cost-of-Living Inequality'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,7 +9,7 @@ authors:
   - admin
   - Christoffer Jessen Weissert
 
-date: '2023-04-13T00:00:00Z'
+date: '2023-04-12T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -38,9 +38,9 @@ featured: false
 # Custom links (uncomment lines below)
 # links:  
 # - name: Custom Link
-# url: "/research/jmp"
+url: "/research/a-nonhomothetic-price-index-and-inflation-heterogeneity"
 
-url_pdf: '/research/a-nonhomothetic-price-index-and-inflation-heterogeneity/hpw_priceindex.pdf'
+url_pdf: '/research/a-nonhomothetic-price-index-and-cost-of-living-inequality/hpw_priceindex.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -51,8 +51,8 @@ url_video: 'https://www.youtube.com/watch?v=CkhKZOydpQg'
 
 links: 
 - name: Online appendix
-  url: "/research/a-nonhomothetic-price-index-and-inflation-heterogeneity/hpw_priceindex_supplement.pdf"
----
+  url: "/research/a-nonhomothetic-price-index-and-cost-of-living-inequality/hpw_priceindex_supplement.pdf"
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
