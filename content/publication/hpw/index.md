@@ -7,9 +7,9 @@ title: 'A Nonhomothetic Price Index and Inflation Heterogeneity'
 authors:
   - Philipp Hochmuth
   - admin
-  - Christoffer Weissert
+  - Christoffer Jessen Weissert
 
-date: '2022-11-28T00:00:00Z'
+date: '2023-04-13T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ publication_types: ['9']
 publication: ''
 publication_short: ''
 
-abstract: 'We derive a microfounded, nonhomothetic generalization of all known superlative price indices, including the Fisher, the Törnqvist, and the Sato-Vartia indices. The index varies continuously along the consumption distribution, aggregates consistently across heterogeneous households and largely avoids the need for estimation. In an empirical application to the United States using CEX-CPI data for the period 1995–2020, we find: (i) poor and rich households experience on average the same inflation rate; but (ii) inflation for the poorest decile is more than 2.5 times as volatile as that of the richest decile; and (iii) this higher volatility primarily stems from a larger exposure to price changes in food, gasoline and utilities. Our findings contrast with papers that construct standard price indices for different consumer groups. We show that the inflation inequality uncovered in these analyses may be a spurious result of failing to purge the underlying price indices from a bias owing to income effects on consumer behavior.'
+abstract: 'We derive a price index based on nonhomothetic preferences and use it to document cost-of-living inequality in the United States. Our framework generalizes all known superlative price indices and admits heterogeneous indices across the distribution of household consumption expenditures which aggregate consistently into welfare-relevant group indices. When necessities and luxuries are separable in the expenditure function, this generalization avoids the need to estimate a complete demand system. Using CEX-CPI data for the period 1995–2020, we find no differences in average inflation rates across the expenditure distribution, but 2.5 times higher inflation volatility for the bottom decile compared to the top decile, stemming from a larger exposure to food, gasoline, and utilities. These results contrast with the inequality found by the typical approach of constructing separate homothetic price indices for different consumer groups, and our analysis suggests that the difference follows from an income-effect bias in the homothetic group-specific indices.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -47,7 +47,12 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=CkhKZOydpQg'
+
+links: 
+- name: Online appendix
+  url: "/research/a-nonhomothetic-price-index-and-inflation-heterogeneity/hpw_priceindex_supplement.pdf"
+---
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
