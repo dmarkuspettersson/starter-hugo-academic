@@ -40,7 +40,7 @@ featured: false
 # - name: Custom Link
 url: "/research/a-nonhomothetic-price-index-and-inflation-heterogeneity"
 
-url_pdf: '/research/a-nonhomothetic-price-index-and-cost-of-living-inequality/hpw_priceindex.pdf'
+url_pdf: '/research/a-nonhomothetic-price-index-and-inflation-heterogeneity/hpw_priceindex.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -51,7 +51,7 @@ url_video: 'https://www.youtube.com/watch?v=CkhKZOydpQg'
 
 links: 
 - name: Online appendix
-  url: "/research/a-nonhomothetic-price-index-and-cost-of-living-inequality/hpw_priceindex_supplement.pdf"
+  url: "/research/a-nonhomothetic-price-index-and-inflation-heterogeneity/hpw_priceindex_supplement.pdf"
 
 
 # Featured image
