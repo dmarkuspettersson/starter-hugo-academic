@@ -19,13 +19,13 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Work in progress
-publication_types: ['9']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: ''
 publication_short: ''
 
-abstract: 'We derive a price index based on nonhomothetic preferences and use it to document cost-of-living inequality in the United States. Our framework generalizes all known superlative price indices and admits heterogeneous indices across the distribution of household consumption expenditures which aggregate consistently into welfare-relevant group indices. When necessities and luxuries are separable in the expenditure function, this generalization avoids the need to estimate a complete demand system. Using CEX-CPI data for the period 1995–2020, we find no differences in average inflation rates across the expenditure distribution, but 2.5 times higher inflation volatility for the bottom decile compared to the top decile, stemming from a larger exposure to food, gasoline, and utilities. These results contrast with the inequality found by the typical approach of constructing separate homothetic price indices for different consumer groups, and our analysis suggests that the difference follows from an income-effect bias in the homothetic group-specific indices.'
+abstract: 'We derive a price index based on nonhomothetic preferences and use it to document cost-ofliving inequality in the United States. Our framework generalizes all known superlative price indices and admits heterogeneous indices across the distribution of household consumption expenditures which aggregate consistently into welfare-relevant group indices. When necessities and luxuries are separable in the expenditure function, this generalization avoids the need to estimate a complete demand system. Using CEX-CPI data for the period 1995-2020, we find no differences in average inflation rates across the expenditure distribution, but 2.5 times higher inflation volatility for the bottom decile compared to the top decile, stemming from a larger exposure to food, gasoline, and utilities. These results contrast with the inequality found by the typical approach of constructing separate homothetic price indices for different consumer groups, and our analysis suggests that the difference follows from an income-effect bias in the homothetic group-specific indices.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -78,6 +78,6 @@ image:
 #slides: example
 ---
 
-[**{{< icon name="angles-left" pack="fas" >}} BACK TO RESEARCH**]({{< ref "/research/index.md" >}} "Back to Research")
+[**{{< icon name="angles-left" pack="fas" >}}Back to research**]({{< ref "/research/index.md" >}} "Research")
 **<span class="middot-divider"></span>**
-[**{{< icon name="magnifying-glass" pack="fas" >}} SEARCH AMONG PAPERS**]({{< ref "/publication/_index.md" >}} "Search Papers")
+[**{{< icon name="magnifying-glass" pack="fas" >}}Search papers**]({{< ref "/publication/_index.md" >}} "Search Papers")

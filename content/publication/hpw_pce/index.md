@@ -5,9 +5,7 @@ title: 'A Distributional PCE Price Index From Aggregate Data'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Philipp Hochmuth
   - admin
-  - Christoffer Jessen Weissert
 
 date: '2022-10-01T00:00:00Z'
 doi: ''
@@ -25,7 +23,7 @@ publication_types: ['9']
 publication: ''
 publication_short: ''
 
-abstract: 'We propose a method for constructing nonhomothetic cost-of-living indices when detailed consumption microdata is unavailable. Aggregate prices and expenditure shares together with a single cross-sectional distribution of consumption are sufficient to create a nonhomothetic distribution of cost-of-living indices with our approach. The index is derived from nonhomothetic CES preferences, nests conventional price indices as special cases, and only requires the estimation of one parameter: the elasticity of substitution between necessities and luxuries. The underlying preferences aggregate consistently, which allows us to identify this parameter from aggregate data. We implement the approach using US Personal Consumption Expenditure (PCE) data and construct a nonhomothetic PCE price index covering 72 product groups. This index exhibits annual inflation rates of the poorest ten percent that exceed those of the richest ten percent by 0.8 to 1.1 percentage points throughout most of 2022 to date, thus suggesting that poorer households are hit substantially harder by the current inflation surge.'
+abstract: 'This paper proposes a method to measure individual and aggregate changes in the cost of living when consumer behavior is nonhomothetic and microdata on consumption expenditures are not available. Aggregate prices and expenditure shares together with a single cross-sectional distribution of expenditures are sufficient to create a distribution of nonhomothetic cost-ofliving indices with this approach. The cost-of-living indices derive from PIGL preferences, generalize the Törnqvist price index, and only contain two unknown parameters. Because PIGL preferences aggregate consistently, these parameters can be identified from aggregate data. Using US Personal Consumption Expenditure (PCE) data, the method is applied to obtain a nonhomothetic PCE price index covering 72 product groups. This index reveals a 0.5–1.2 percentage point gap in annual inflation rates between the poorest and richest ten percents throughout 2022, and a similar 0.2 percentage point gap on average since 1988, thus suggesting that poorer households are hit harder both in the ongoing inflation surge and in the long run.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -53,7 +51,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   placement: 1
-  caption: 'Annualised inflation rates'
+  caption: 'PCE inflation rate difference between top and bottom deciles'
   focal_point: ''
   preview_only: false
 
@@ -73,6 +71,7 @@ image:
 #slides: example
 ---
 
-[**{{< icon name="angles-left" pack="fas" >}} BACK TO RESEARCH**]({{< ref "/research/index.md" >}} "Back to Research")
+[**{{< icon name="angles-left" pack="fas" >}}Back to research**]({{< ref "/research/index.md" >}} "Research")
 **<span class="middot-divider"></span>**
-[**{{< icon name="magnifying-glass" pack="fas" >}} SEARCH AMONG PAPERS**]({{< ref "/publication/_index.md" >}} "Search Papers")
+[**{{< icon name="magnifying-glass" pack="fas" >}}Search papers**]({{< ref "/publication/_index.md" >}} "Search Papers")
+

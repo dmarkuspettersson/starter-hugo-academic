@@ -20,10 +20,10 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Job market paper
+publication: ''
 publication_short: ''
 
-abstract: 'I study the effect of demographic change on economic growth under endogenous, R&D-driven technological change. Qualitatively, population ageing generates two opposing forces: increased R\&D and capital investments on the one hand, and a decreasing share of workers in the population on the other. I evaluate these channels quantitatively along the demographic transition using a calibrated overlapping generations model with idiosyncratic income risk, mortality risk, intensive and extensive labour supply margins and endogenous technological change. Considering the United States between 1950 and 2100, I find that the demographic transition: (i) increased per-capita output by 0.35 percent per year between 1950 and 2000; (ii) accounts for a 0.65 percentage point decline in growth rates between 1995 and 2025 when the positive growth impact reverts back to trend; and (iii) has no net impact on twenty-first century growth. The main positive driver is endogenous technological change, whose growth contribution more than doubles that of capital deepening between 1950 and 2100. Removing this mechanism eliminates all positive growth effects.'
+abstract: 'I study the effect of demographic change on economic growth under endogenous, R&D-driven technological change. Qualitatively, population ageing generates two opposing forces: increased R&D and capital investments on the one hand, and a decreasing share of workers in the population on the other. I evaluate these channels quantitatively along the demographic transition using a calibrated overlapping generations model with idiosyncratic income risk, mortality risk, intensive and extensive labour supply margins and endogenous technological change. Considering the United States between 1950 and 2100, I find that the demographic transition: (i) increased per-capita output by 0.35 percent per year between 1950 and 2000; (ii) accounts for a 0.65 percentage point decline in growth rates between 1995 and 2025 when the positive growth impact reverts back to trend; and (iii) has no net impact on twenty-first century growth. The main positive driver is endogenous technological change, whose growth contribution more than doubles that of capital deepening between 1950 and 2100. Removing this mechanism eliminates all positive growth effects.'
 
 # Summary. An optional shortened abstract.
 summary: '' #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,7 +31,7 @@ summary: '' #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posue
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -71,6 +71,7 @@ image:
 #slides: example
 ---
 
-[**{{< icon name="angles-left" pack="fas" >}} BACK TO RESEARCH**]({{< ref "/research/index.md" >}} "Back to Research")
+[**{{< icon name="angles-left" pack="fas" >}}Back to research**]({{< ref "/research/index.md" >}} "Research")
 **<span class="middot-divider"></span>**
-[**{{< icon name="magnifying-glass" pack="fas" >}} SEARCH AMONG PAPERS**]({{< ref "/publication/_index.md" >}} "Search Papers")
+[**{{< icon name="magnifying-glass" pack="fas" >}}Search papers**]({{< ref "/publication/_index.md" >}} "Search Papers")
+

@@ -6,12 +6,12 @@ title: Markus Pettersson
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Economics
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stockholm School of Economics
-    url: https://www.hhs.se/
+  - name: Stockholm University
+    url: https://www.su.se/department-of-economics/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -21,13 +21,14 @@ interests:
   - Macroeconomics
   - Demographic change
   - Growth
+  - Inflation
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Economics
       institution: Stockholm School of Economics
-      year: 2023 (expected)
+      year: 2023
     - course: MSc in Economics
       institution: Stockholm School of Economics
       year: 2018
@@ -69,10 +70,8 @@ email: 'markus.pettersson@phdstudent.hhs.se'
 highlight_name: true
 ---
 
-I am a macroeconomist and a fifth-year doctoral candidate at the Stockholm School of Economics.
+I am a macroeconomist and a postdoctoral researcher at the Department of Economics at Stockholm University. I hold a PhD in economics from the Stockholm School of Economics.
 
-My research focuses on the interactions between heterogeneity at the household level and macroeconomic outcomes. My current work investigates how changes in the cost of living differ across households with different consumption patterns (and how to measure these) and the impact of demographic change on economic growth and output per capita.
+My research focuses on how heterogeneity at the household level interacts with outcomes at the macroeconomic level. My current work investigates how changes in the cost of living differ across households with different consumption patterns (and how to measure these) and the impact of demographic change on economic growth and output per capita.
 
-Prior to my doctoral studies, I obtained a master's degree in economics from the Stockholm School of Economics and undergraduate degrees in mathematics from Stockholm University and in economics from University College London.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_markuspettersson.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can find my CV {{< staticref "uploads/cv_markuspettersson.pdf" "newtab" >}}here.{{< /staticref >}}

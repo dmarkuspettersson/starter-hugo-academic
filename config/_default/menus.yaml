@@ -9,25 +9,25 @@ main:
     weight: 10
   - name: "Research"
     identifier: research
-    #url: research/
     weight: 20
-  - name: "Research"
+  - name: "Papers"
     parent: research
     url: research/
     weight: 10
-  - name: Search among papers
+  - name: "Search"
     parent: research
     url: search_papers/
     weight: 20
-  - name: Teaching
-    url: teaching/
-    weight: 30
   - name: CV
     url: https://www.markuspettersson.net/uploads/cv_markuspettersson.pdf # uploads/cv_markuspettersson.pdf
-    weight: 40
+    weight: 30
   - name: Contact
     url: '#contact'
-    weight: 50
+    weight: 40
+ 
+#  - name: Teaching
+#    url: teaching/
+#    weight: 30
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
