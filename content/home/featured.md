@@ -11,7 +11,9 @@ headless: true
 weight: 80
 
 title: Latest paper
-subtitle: '[**See all research** {{< icon name="angles-right" pack="fas" >}}]({{< ref "/research/index.md" >}} "Research")'
+subtitle: ''
+
+# [**See all research** {{< icon name="angles-right" pack="fas" >}}]({{< ref "/research/index.md" >}} "Research")
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -26,7 +28,9 @@ content:
     tag: ''
   # Link to paper archive: enable (true) or disable (false) 
   archive:
-    enable: false
+    enable: true
+    text: 'See all research'
+    link: research/
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
