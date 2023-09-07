@@ -25,7 +25,7 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: markus.pettersson@phdstudent.hhs.se
+  email: markus.pettersson@su.se
   phone: +46 (0)708 36 29 18
   address:
     street: Universitetsvägen 10A

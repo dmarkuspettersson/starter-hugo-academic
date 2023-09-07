@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:markus.pettersson@phdstudent.hhs.se
+    link: mailto:markus.pettersson@su.se
 #  - icon: google-scholar # Alternatively, use `graduation-cap` icon from `fas` icon pack
 #    icon_pack: ai
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -64,7 +64,7 @@ social:
     link: https://www.markuspettersson.net/uploads/cv_markuspettersson.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'markus.pettersson@phdstudent.hhs.se'
+email: 'markus.pettersson@su.se'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
