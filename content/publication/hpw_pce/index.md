@@ -9,7 +9,7 @@ authors:
   - admin
   - Christoffer Jessen Weissert
 
-date: '2022-10-01T00:00:00Z'
+date: '2023-09-21T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent; 9 = Work in progress
-publication_types: ['9']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: ''
@@ -40,7 +40,7 @@ featured: false
 # - name: Custom Link
 # url: "/research/jmp"
 
-url_pdf: ''
+url_pdf: '/research/a-distributional-pce-price-index-from-aggregate-data/hpw_nhpce.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
