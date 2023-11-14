@@ -1,5 +1,5 @@
 ---
-title: 'Endogenous technological change along the demographic transition'
+title: 'Endogenous Technological Change Along the Demographic Transition'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,7 +7,7 @@ title: 'Endogenous technological change along the demographic transition'
 authors:
   - admin
 
-date: '2022-11-28T00:00:00Z'
+date: '2023-11-14T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,7 @@ publication_types: ['3']
 publication: ''
 publication_short: ''
 
-abstract: 'I study the effect of demographic change on economic growth under endogenous, R&D-driven technological change. Qualitatively, population ageing generates two opposing forces: increased R&D and capital investments on the one hand, and a decreasing share of workers in the population on the other. I evaluate these channels quantitatively along the demographic transition using a calibrated overlapping generations model with idiosyncratic income risk, mortality risk, intensive and extensive labour supply margins and endogenous technological change. Considering the United States between 1950 and 2100, I find that the demographic transition: (i) increased per-capita output by 0.35 percent per year between 1950 and 2000; (ii) accounts for a 0.65 percentage point decline in growth rates between 1995 and 2025 when the positive growth impact reverts back to trend; and (iii) has no net impact on twenty-first century growth. The main positive driver is endogenous technological change, whose growth contribution more than doubles that of capital deepening between 1950 and 2100. Removing this mechanism eliminates all positive growth effects.'
+abstract: 'Does population ageing hurt output per capita in the advanced economies? Standard calibrations of life-cycle models with exogenous growth that consider two fundamental and opposing forces, capital deepening versus a declining employment rate, predict yes. Using a quantitative overlapping generations model with realistic demographics and R&D-driven endogenous growth, this paper challenges the standard prediction through a third possibility: that current demographic trends boost R&D investment and thus generate technological change. Calibrated to the United States, the model indicates that the demographic transition between 1950 and 2100 increases output per capita by 0.41 percent per year until 2000 and by 0.18 percent per year overall, thereby explaining 10 to 20 percent of observed US growth. The key mechanism is the endogeneity of technological change, whose growth contribution triples that of capital deepening, and removing this channel eliminates the positive impact.'
 
 # Summary. An optional shortened abstract.
 summary: '' #Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
