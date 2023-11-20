@@ -47,11 +47,15 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+links: 
+- name: Online appendix
+  url: "/research/jmp/pettersson_jmp_demogrowth_appendix.pdf"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   placement: 1
-  caption: 'Growth rates along the demographic transition'
+  caption: 'Growth impact of the demographic transition'
   focal_point: 'TopRight'
   preview_only: false
 
